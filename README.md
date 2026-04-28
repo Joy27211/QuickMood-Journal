@@ -20,7 +20,7 @@ A simple, beautiful **daily mood tracker** web app that helps you log how you fe
 
 > Open `index.html` in any modern browser — no installation, no server required.
 
-If hosted on GitHub Pages: **[Live Demo](#)** ← *(replace with your GitHub Pages link)*
+If hosted on GitHub Pages: **[Live Demo](https://joy27211.github.io/QuickMood-Journal)**
 
 ---
 
@@ -32,7 +32,7 @@ If hosted on GitHub Pages: **[Live Demo](#)** ← *(replace with your GitHub Pag
 3. Start logging your mood!
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/quickmood-journal.git
+git clone https://github.com/Joy27211/quickmood-journal.git
 cd quickmood-journal
 open index.html
 ```
@@ -40,7 +40,7 @@ open index.html
 ### Option 2 — GitHub Pages (Live Link)
 1. Go to your repo on GitHub
 2. Settings → Pages → Source: **main branch**
-3. Your app will be live at `https://YOUR_USERNAME.github.io/quickmood-journal`
+3. Your app will be live at `https://Joy27211.github.io/quickmood-journal`
 
 ---
 
@@ -90,8 +90,8 @@ quickmood-journal/
 
 ## 🙋 Author
 
-**Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
+Himanshu Yadav
+- GitHub: @Joy27211 https://github.com/Joy27211
 
 ---
 
